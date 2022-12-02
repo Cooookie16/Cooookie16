@@ -1,10 +1,12 @@
 ## 哈囉我餅乾 La 👋  
   
 
-#### 我不是專業工程師，單純因爲興趣來研究程式 **d(d＇∀＇)**
-#### 最近正在搞一些有趣的專案
+#### 我不是專業工程師、也不是相關領域在學生，單純因爲興趣來研究程式 **d(d＇∀＇)** 請多多指教
+#### 最近正在搞一些有趣的專案 🤯
+
+日文/英文/中文都可以通～
 ---
-##### ⬇️ 我的 Spotify 動態😍  
+##### ⬇️ 我的 Spotify 動態
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ed6qt9i8dwuqbchqdvf3pv29s&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="drawing" width="200"/>
 
