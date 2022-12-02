@@ -32,6 +32,12 @@
 ### Discord 認證機器人 — 荒野小助手
 一個可以讓你查詢《荒野亂鬥》遊戲資料並製圖的機器人
 
+[DST](https://discordservers.tw/bots/1007286089075138590) [Top.gg](https://top.gg/bot/1007286089075138590)
+
+🔗 [邀請機器人](https://discord.com/oauth2/authorize?client_id=1007286089075138590&permissions=2147871808&scope=bot) [支援伺服器](https://discord.gg/qT9Aft9C87)
+
+</table>
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Cooookie16&&style=flat-square" align="center" />
